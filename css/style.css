@@ -50,3 +50,34 @@ div{
     display: inline-block;
     width: 33%;
 }
+
+span{
+    font-size: 80px;
+}
+
+
+body section:last-child{
+    margin: 30px 50px 0 70px;
+}
+
+img[alt="Logo Labopratoria"]{
+    width: 120px;
+}
+
+button{
+    background: #f9a91a;
+    color: white;
+    padding: 10px;
+    border: 0;
+    border-radius: 5px;
+    font-weight: 600;
+}
+
+.box-header ul li{
+    margin: 0 15px;
+}
+
+span:hover, .box-header ul li:hover{
+    color: #f9a91a;
+}
+
